@@ -49,6 +49,7 @@ namespace CAL
             }
         }
 
+
         private double Calculate(double val)
         {
             switch (operation)
